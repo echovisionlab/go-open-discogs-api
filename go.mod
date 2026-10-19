@@ -5,7 +5,7 @@ go 1.27.2
 require (
 	github.com/echovisionlab/open-discogs-model v1.0.1
 	github.com/exaring/otelpgx v0.13.0
-	github.com/getkin/kin-openapi v0.149.0
+	github.com/getkin/kin-openapi v0.151.0
 	github.com/jackc/pgx/v5 v5.11.0
 	github.com/prometheus/client_golang v1.25.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.72.0
