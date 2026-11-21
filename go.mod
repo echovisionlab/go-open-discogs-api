@@ -2,6 +2,8 @@ module github.com/echovisionlab/go-open-discogs-api
 
 go 1.27.2
 
+toolchain go1.27.4
+
 require (
 	github.com/echovisionlab/open-discogs-model v1.0.1
 	github.com/exaring/otelpgx v0.13.0

@@ -39,10 +39,8 @@ The MIT license covers this project's source code. Data remains subject to the r
 
 ## Run
 
-Source builds require Go 1.27.2. This API uses
-[OpenDiscogs model v1.0.0](https://github.com/echovisionlab/open-discogs-model/releases/tag/v1.0.0),
-which maintains the Go model and canonical SQL. The model release preserves
-existing SQL bytes and Go APIs and adds no migration.
+Source builds require Go 1.27.2. The API uses the Go types and SQL migrations
+from [OpenDiscogs model v1.0.1](https://github.com/echovisionlab/open-discogs-model/releases/tag/v1.0.1).
 
 Use a complete PostgreSQL URL:
 
