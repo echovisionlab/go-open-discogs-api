@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.6](https://github.com/echovisionlab/go-open-discogs-api/compare/v1.2.5...v1.2.6) (2026-11-21)
+
+
+### Bug Fixes
+
+* **build:** use the patched Go toolchain for API images ([#41](https://github.com/echovisionlab/go-open-discogs-api/issues/41)) ([2130afd](https://github.com/echovisionlab/go-open-discogs-api/commit/2130afd7db1b8b1007795e6909d70f10f173768a))
+
 ## [1.2.5](https://github.com/echovisionlab/go-open-discogs-api/compare/v1.2.4...v1.2.5) (2026-10-17)
 
 
